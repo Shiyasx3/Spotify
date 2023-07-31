@@ -1,0 +1,214 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+        height: 88px;
+}
+
+.main{
+    display: flex;
+    justify-content: flex-start;
+    background-color: black;
+    height: 90px;
+    position: absolute;
+    top: 0;
+    position: fixed;
+    width: 100%;
+   z-index: 1;   
+}
+.head img{
+    width: 180px;
+    height: 90px;
+    position: relative;
+    left: 10px;
+    top: -10px;
+    margin-top: 10px;
+}
+.grc{
+    display: flex;
+    flex-direction: column;
+    font-size: 40px;
+    color: white;
+    position: fixed;
+}
+.grc a{
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+}
+.grc a {
+    margin-left:20px;
+}
+.grc{
+    background-color:rgb(12, 168, 12);
+    width: 311px;
+    height: 900px;
+}
+.grc{
+    position: absolute;
+    top: 0;
+    margin-top: 90px;
+    position: fixed;
+}
+
+
+.min {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.min select {
+ 
+}
+
+.min button {
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+    width: 120px;
+    height: 50px;
+    position: relative;
+    left: 1400px;
+    font-size:20px;
+} 
+.minn button {
+    border: solid green 3px;
+    border-radius: 30px;
+    color:black;
+    background-color:white;
+    width: 140px;
+    height: 70px;
+    position: relative;
+    top: 10px;
+    left: 1430px;
+    font-size:26px;
+}
+
+.css1 img {
+    margin-left: 10px;
+    width: 130px;
+    height: 50px;
+}
+
+.css2 {
+    display: flex;
+    margin-left: 40px;
+    margin-top: 20px;
+    color: rgb(26, 19, 19);
+}
+
+.css2 h4 {
+    margin-left: 10px;
+}
+
+.css2 i {
+    font-size: 25px;
+}
+
+.css3 {
+    display: flex;
+    color: white;
+}
+
+.css3 h4 {
+    margin-left: 30px;
+    padding-top: 15px;
+}
+
+.css3 button {
+    margin-left: 10px;
+    width: 100px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+}
+
+.main1 {
+    position: absolute;
+    top: 10px;
+    margin-left: 1000px;
+}
+
+.bvv h2 {
+    color: black;
+    margin-left: 30px;
+}
+
+.cgg img {
+    display: flex;
+    width: 140px;
+    height: 150px;
+    border-radius: 10px;
+    position: relative;
+    /* top: 10px;
+    left: 40px; */
+}
+
+.css4 {
+    border: solid green 6px;
+    background-color: #181818;
+    width: 265px;
+    height: 433px;
+    margin-left: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+
+.css4 h4 {
+    color: white;
+}
+
+.css4 p {
+    color: #989898;
+
+}
+.main3 {
+   display: flex;
+}
+
+.main4 {
+    display: flex;
+}
+
+.main5 {
+    display: flex;
+}
+
+.king {
+    margin-top: 50px;
+}
+
+.fine {
+    position: relative;
+    left: 350px;
+    top: 50px;
+}
+
+.css5 {
+
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to right, #ff03d1, #0373fc);
+    padding: 5px 30px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.css7 button {
+    border-radius: 50px;
+    padding: 10px;
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+    left: 150px;
+}
